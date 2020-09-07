@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1 - Two Sum"/>
+	<classpathentry kind="src" path="100 - Same Tree"/>
+	<classpathentry kind="src" path="101 - Symmetric Tree"/>
+	<classpathentry kind="src" path="102 - Binary Tree Level Order Traversal"/>
+	<classpathentry kind="src" path="104 - Maximun Depth of Binary Tree"/>
+	<classpathentry kind="src" path="107 - Binary Tree Level Order Traversal II"/>
+	<classpathentry kind="src" path="108 - Convert Sorted Array to Binary Saerch Tree"/>
+	<classpathentry kind="src" path="138 - Copy List with Random Pointer"/>
+	<classpathentry kind="src" path="141 - Linked List Circle"/>
+	<classpathentry kind="src" path="146 - LRU Cache"/>
+	<classpathentry kind="src" path="15 - Three Sum"/>
+	<classpathentry kind="src" path="155 - Min Stack"/>
+	<classpathentry kind="src" path="167 - Two Sum II"/>
+	<classpathentry kind="src" path="17 - Letter Combinations of a Phone Number"/>
+	<classpathentry kind="src" path="199 - Binary Tree Right Side View"/>
+	<classpathentry kind="src" path="2 - Add Two Numbers"/>
+	<classpathentry kind="src" path="20 - Valid Parentheses"/>
+	<classpathentry kind="src" path="204 - Count Primes"/>
+	<classpathentry kind="src" path="206 - Reverse Linked List"/>
+	<classpathentry kind="src" path="21 - Merge Two Linked Lists"/>
+	<classpathentry kind="src" path="215 - Kth Largest Element in an Array"/>
+	<classpathentry kind="src" path="23 - Merge K Sorted Lists"/>
+	<classpathentry kind="src" path="235 - Lowest Common Ancester of a Binary Search Tree"/>
+	<classpathentry kind="src" path="236 - Lowest Common Ancester of a Binary Tree"/>
+	<classpathentry kind="src" path="239 - Sliding Windows Maximum"/>
+	<classpathentry kind="src" path="240 - Search a 2D Matrix II"/>
+	<classpathentry kind="src" path="242 - Valid Anagram"/>
+	<classpathentry kind="src" path="297 - Serialize and Deserialize Binary Tree"/>
+	<classpathentry kind="src" path="3 - Longest Substring Without Repeating Characters"/>
+	<classpathentry kind="src" path="32 - Longest Valid Parenthesis"/>
+	<classpathentry kind="src" path="33 - Search in Rotated Sorted Array"/>
+	<classpathentry kind="src" path="34 - Find First and Last Position of Element in Sorted Array"/>
+	<classpathentry kind="src" path="35 - Search Insert Position"/>
+	<classpathentry kind="src" path="36 - Vaid Sudoku"/>
+	<classpathentry kind="src" path="38 - Count and Say"/>
+	<classpathentry kind="src" path="387 - First Unique Character in a String"/>
+	<classpathentry kind="src" path="39 - Combination Sum"/>
+	<classpathentry kind="src" path="4 - Median of Two Sorted Array"/>
+	<classpathentry kind="src" path="40 - Combination Sum II"/>
+	<classpathentry kind="src" path="414 - Third Maximum Number"/>
+	<classpathentry kind="src" path="42 - Trapping Rain Water"/>
+	<classpathentry kind="src" path="438 - Find All Anagrams in a String"/>
+	<classpathentry kind="src" path="45 - Jump Game II"/>
+	<classpathentry kind="src" path="48 - Rotate Image"/>
+	<classpathentry kind="src" path="49 - Group Anagrams"/>
+	<classpathentry kind="src" path="5 - Longest Palindromic Substring"/>
+	<classpathentry kind="src" path="50 - Pow(x, n)"/>
+	<classpathentry kind="src" path="51 - N-Queens"/>
+	<classpathentry kind="src" path="517 - Super Washing Machine"/>
+	<classpathentry kind="src" path="52 - N-Queens II"/>
+	<classpathentry kind="src" path="529 - Minesweeper"/>
+	<classpathentry kind="src" path="53 - Maximum Subarray"/>
+	<classpathentry kind="src" path="532 - K-diff Pairs in an Array"/>
+	<classpathentry kind="src" path="54 - Spiral Matrix"/>
+	<classpathentry kind="src" path="55 - Jump Game"/>
+	<classpathentry kind="src" path="59 - Spiral Matrix II"/>
+	<classpathentry kind="src" path="66 - Plus One"/>
+	<classpathentry kind="src" path="67 - Add Binary"/>
+	<classpathentry kind="src" path="69 - Sqrt(x)"/>
+	<classpathentry kind="src" path="70 - Climbing Stairs"/>
+	<classpathentry kind="src" path="83 - Remove Duplicates from Sorted List"/>
+	<classpathentry kind="src" path="88 - Merge Sorted Array"/>
+	<classpathentry kind="src" path="98 - Validate Binary Search Tree"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
